@@ -13,6 +13,11 @@ Keywords extraction library called YAKE: https://github.com/LIAAD/yake
 
 When it comes to keyword extraction the first instinct of many NLP experts is to try TextRank or RAKE. If you want to expand your tool-set when doing keyword extraction, YAKE is a great way to get keywords quickly and without any training of ML models from any document. The repository also gives a really great overview of similar keyword extraction algorithms. Give it a try.
 
+#### Spotlight №3
+Transfer Learning library for NLP called FARM: https://github.com/deepset-ai/FARM
+
+FARM builds upon the very successful Transformers package (https://github.com/huggingface/transformers) from Hugging Face and incorporates many existing models like BERT or XLNet. With FARM you can pre-train them easily for any downstream NLP tasks. FARM is great for some fast prototyping and proof-of-concept to show your PM that transfer learning is the way to go.
+
 ### Follow me for more content like this:
 - Twitter: https://twitter.com/DemiourgosUA
 - GitHub: https://github.com/ivan-bilan
