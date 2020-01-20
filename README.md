@@ -19,6 +19,7 @@ Transfer Learning library for NLP called FARM: https://github.com/deepset-ai/FAR
 FARM builds upon the very successful Transformers package (https://github.com/huggingface/transformers) from Hugging Face and incorporates many existing models like BERT or XLNet. With FARM you can pre-train them easily for any downstream NLP tasks. FARM is great for some fast prototyping and proof-of-concept to show your PM that transfer learning is the way to go.
 
 ### Follow me for more content like this:
+- LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
 - GitHub: https://github.com/ivan-bilan
 - Medium (for non-tech content): https://medium.com/@demiourgosua/
