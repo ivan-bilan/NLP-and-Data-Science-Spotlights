@@ -18,6 +18,11 @@ Transfer Learning library for NLP called FARM: https://github.com/deepset-ai/FAR
 
 FARM builds upon the very successful Transformers package (https://github.com/huggingface/transformers) from Hugging Face and incorporates many existing models like BERT or XLNet. With FARM you can pre-train them easily for any downstream NLP tasks. FARM is great for some fast prototyping and proof-of-concept to show your PM that transfer learning is the way to go.
 
+#### Spotlight №4 (January 21, 2020)
+Today's pick is an Entity Matching approach that allows you to pre-train a Deep Learning model on any labeled data you might have: https://github.com/anhaidgroup/deepmatcher
+
+Entity Matching has usually been done with a lot of hand-crafted features, Deep Matcher is one of the few DL based approaches to Entity Matching that actually work out of the box. If you have to match two databases and eliminate the duplicates, DeepMatcher is a great starting point.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
