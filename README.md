@@ -23,6 +23,12 @@ Today's pick is an Entity Matching approach that allows you to pre-train a Deep 
 
 Entity Matching has usually been done with a lot of hand-crafted features, Deep Matcher is one of the few DL based approaches to Entity Matching that actually work out of the box. If you have to match two databases and eliminate the duplicates, DeepMatcher is a great starting point.
 
+#### Spotlight №5 (January 22, 2020)
+Seq2seq library Headliner: https://github.com/as-ideas/headliner
+
+Originally developed at Axel Springer by Dat Tran, this library is a great way to train and deploy your seq2seq models. It includes Transformer based models that can be used for summarization. Originally created to generate a headline for a piece of news, it can be used for many other tasks as well. Headliner is a great tool to try out for anyone working on summarization or wants to expand their understanding of what the Transformer architecture is capable of. 
+
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
