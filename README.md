@@ -28,6 +28,11 @@ Seq2seq library Headliner: https://github.com/as-ideas/headliner
 
 Originally developed at Axel Springer by Christian Schäfer and Dat Tran, this library is a great way to train and deploy your seq2seq models. It includes Transformer based models that can be used for summarization. Originally created to generate a headline for a piece of news, it can be used for many other tasks as well. Headliner is a great tool to try out for anyone working on summarization or wants to expand their understanding of what the Transformer architecture is capable of. 
 
+#### Spotlight №6 (January 23, 2020)
+NLP library that incorporates many Deep Learning-based models into one easy to use package called gobbli: https://github.com/RTIInternational/gobbli
+
+Its motto is 'Deep learning with text doesn't have to be scary.', and it fulfills the promise by delivering an easy to use interface that covers many NLP approaches. You can use this one for quick prototyping with ease, try it out!
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
