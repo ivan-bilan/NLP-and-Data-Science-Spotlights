@@ -33,6 +33,11 @@ NLP library that incorporates many Deep Learning-based models into one easy to u
 
 Its motto is 'Deep learning with text doesn't have to be scary.', and it fulfills the promise by delivering an easy to use interface that covers many NLP approaches. You can use this one for quick prototyping with ease, try it out!
 
+#### Spotlight №7 (January 24, 2020)
+Compendium of all latest impactful NLP papers from the top NLP conferences: https://github.com/soulbliss/NLP-conference-compendium
+
+It comprises links to papers that have won the best paper and best demo awards at ACL and EMNLP conferences for the past few years and also links to various tutorials and eventually all other accepted papers. Great way to track the progress in NLP.
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
