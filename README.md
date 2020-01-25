@@ -38,6 +38,12 @@ Compendium of all latest impactful NLP papers from the top NLP conferences: http
 
 It comprises links to papers that have won the best paper and best demo awards at ACL and EMNLP conferences for the past few years and also links to various tutorials and eventually all other accepted papers. Great way to track the progress in NLP.
 
+#### Spotlight №8 (January 25, 2020)
+A library that enables data scientists and data engineers to write data related tests faster. It's called "great expectations": https://github.com/great-expectations/great_expectations
+
+It has a collection of ready to use testing functions that will test you tabular data for various potential pitfalls that you as a developer might not have accounted for right away. You should try them out and add them to your integration tests to avoid any unpleasant surprises.
+
+To go with that, also try out snorkel (https://github.com/snorkel-team/snorkel) to quickly generate some test data.
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
