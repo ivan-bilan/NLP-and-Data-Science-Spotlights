@@ -45,6 +45,12 @@ It has a collection of ready to use testing functions that will test you tabular
 
 To go with that, also try out snorkel (https://github.com/snorkel-team/snorkel) to quickly generate some test data.
 
+#### Spotlight №9 (January 26, 2020)
+A package that let's you automatically extend your textual training data: https://github.com/makcedward/nlpaug
+
+With "nlpaug" you can automatically regenerate a sentence and replace various words in it with synonyms, antonyms, misspelled varients and more. You can also generate similar sentences and change the context within them using Transformer based generator models. Great way to artificially augment your NLP data with meaningful examples and minimal effort.
+
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
