@@ -50,6 +50,10 @@ A package that let's you automatically extend your textual training data: https:
 
 With "nlpaug" you can automatically regenerate a sentence and replace various words in it with synonyms, antonyms, misspelled varients and more. You can also generate similar sentences and change the context within them using Transformer based generator models. Great way to artificially augment your NLP data with meaningful examples and minimal effort.
 
+#### Spotlight №10 (January 27, 2020)
+A package for cleaning tabular data called PyJanitor: https://github.com/ericmjl/pyjanitor
+
+PyJanitor gives you access to a lot of cleaning functions that can make your DataFrames more consistent. You automatically remove empty rows and columns, identify duplicate entries, encode categories as categorical data for faster processing and do various forms of data conversions, all within one package.
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
