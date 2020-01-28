@@ -55,6 +55,11 @@ A package for cleaning tabular data called PyJanitor: https://github.com/ericmjl
 
 PyJanitor gives you access to a lot of cleaning functions that can make your DataFrames more consistent. You automatically remove empty rows and columns, identify duplicate entries, encode categories as categorical data for faster processing and do various forms of data conversions, all within one package.
 
+#### Spotlight №11 (January 28, 2020)
+An implementation of a Plug and Play Language Models (PPLM) from Uber: https://github.com/uber-research/PPLM
+
+If you work a lot with text generation and you are having problems running GPT-2 in production, your best bet is to try PPLM, which is significantly smaller but still provides great performance. PPLM's other strength is its customizability. Definitely try it out.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
