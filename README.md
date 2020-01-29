@@ -60,6 +60,11 @@ An implementation of a Plug and Play Language Models (PPLM) from Uber: https://g
 
 If you work a lot with text generation and you are having problems running GPT-2 in production, your best bet is to try PPLM, which is significantly smaller but still provides great performance. PPLM's other strength is its customizability. Definitely try it out.
 
+#### Spotlight №12 (January 29, 2020)
+A package that incorporates almost all imaginable readability index functions, it's called "textstat": https://lnkd.in/dX6WkEZ 
+
+With "textstat" you can check how complex any given text is. The package includes Flesch Kinkaid, SMOG, Gunning Fog and many other readability index functions. Extremely useful if you work on Authorship Attribution or Profiling, or also Author Obfuscation.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
