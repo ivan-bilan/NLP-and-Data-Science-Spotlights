@@ -65,6 +65,11 @@ A package that incorporates almost all imaginable readability index functions, i
 
 With "textstat" you can check how complex any given text is. The package includes Flesch Kinkaid, SMOG, Gunning Fog and many other readability index functions. Extremely useful if you work on Authorship Attribution or Profiling, or also Author Obfuscation.
 
+#### Spotlight №13 (January 30, 2020)
+A closed domain question answering system called cdQA: https://github.com/cdqa-suite/cdQA
+
+cdQA uses BERT to create a question answering system for various specific domains (i.e. Finance, Medicare etc.) It would be a great addition to your Intranet search queries to find the information you are looking for from within the company documents.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
