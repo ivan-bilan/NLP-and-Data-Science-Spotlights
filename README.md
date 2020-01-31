@@ -70,6 +70,11 @@ A closed domain question answering system called cdQA: https://github.com/cdqa-s
 
 cdQA uses BERT to create a question answering system for various specific domains (i.e. Finance, Medicare etc.) It would be a great addition to your Intranet search queries to find the information you are looking for from within the company documents.
 
+#### Spotlight №14 (January 31, 2020)
+An NLP toolkit that is built around sentence understanding tasks, its called jiant: https://github.com/nyu-mll/jiant
+
+Jiant will help you fast and effectively pre-train transfer learning models for various multitask learning problems. It has some great built-in benchmarks and baselines for tasks like GLUE. And, in my view, it's strongest suit is the focus of the library on building easy to use sentence-level models. Its a must-try for any NLP practitioner.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
