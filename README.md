@@ -75,6 +75,17 @@ An NLP toolkit that is built around sentence understanding tasks, its called jia
 
 Jiant will help you fast and effectively pre-train transfer learning models for various multitask learning problems. It has some great built-in benchmarks and baselines for tasks like GLUE. And, in my view, it's strongest suit is the focus of the library on building easy to use sentence-level models. Its a must-try for any NLP practitioner.
 
+#### Spotlight №15 (February 1, 2020)
+A new approach from the NLP community called FitBERT: https://github.com/Qordobacode/fitbert
+
+With FitBERT you can fill in the blanks within a sentence, namely you can mask out any word in the sentence and if you provide a list of replacement options for that word, FitBERT will select the best one by taking the context of the whole sentence into account. Works really great when also selecting the correct grammatical form of a word, so it can be, for example, used as an addition to existing grammar correction tools. How would you use FitBERT? 
+
+#### Spotlight №16 (February 2, 2020)
+Apackage that merges the functionalities of one of the best machine learning libraries, scikit-learn, with one of the arguably best deep learning libraries, PyTorch. Its name is skorch: https://github.com/skorch-dev/skorch
+
+"Skorch" provides the best of both worlds, you can use PyTorch neural networks while loading data, running grid search, setting up model checkpoints and more using the all-to-familiar sklearn interface. Amazing library for fast experimentation for both ML and DL!
+
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
