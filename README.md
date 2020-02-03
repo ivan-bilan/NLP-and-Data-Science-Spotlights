@@ -85,6 +85,12 @@ Apackage that merges the functionalities of one of the best machine learning lib
 
 "Skorch" provides the best of both worlds, you can use PyTorch neural networks while loading data, running grid search, setting up model checkpoints and more using the all-to-familiar sklearn interface. Amazing library for fast experimentation for both ML and DL!
 
+#### Spotlight №17 (February 3, 2020)
+
+A deep learning library that can be used to train Transformer models quickly and effectively, it's called fast-bert: https://github.com/kaushaltrivedi/fast-bert
+
+The inspiration for fast-bert comes from fast.ai since the interface of this library is made easy and accessible to beginners. Besides BERT, the library also includes recent additions to the Transformer family of Neural Networks, like ALBERT, DistilROBERTA and a lot more. You can use it to create a text classification model, pre-train language models and even directly deploy the final models to AWS Sagemaker.
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
