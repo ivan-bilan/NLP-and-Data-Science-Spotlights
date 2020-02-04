@@ -91,6 +91,12 @@ A deep learning library that can be used to train Transformer models quickly and
 
 The inspiration for fast-bert comes from fast.ai since the interface of this library is made easy and accessible to beginners. Besides BERT, the library also includes recent additions to the Transformer family of Neural Networks, like ALBERT, DistilROBERTA and a lot more. You can use it to create a text classification model, pre-train language models and even directly deploy the final models to AWS Sagemaker.
 
+#### Spotlight №18 (February 4, 2020)
+
+A library for scalable NLP, called Spark-NLP: https://lnkd.in/dv2zDEg
+
+As you might have guessed, it is built to run on Spark in a distributed environment. It can run on a cluster of CPUs or GPUs and it also easily configurable for both in-house clusters and the cloud (i.e. S3). Recent release includes faster implementation of word embeddings, support for ELMO models and the Universal Sentence Encoder. Put that 1000 CPUs on your inhouse cluster to use with Spark-NLP.
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
