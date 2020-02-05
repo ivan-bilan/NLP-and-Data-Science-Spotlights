@@ -97,6 +97,12 @@ A library for scalable NLP, called Spark-NLP: https://lnkd.in/dv2zDEg
 
 As you might have guessed, it is built to run on Spark in a distributed environment. It can run on a cluster of CPUs or GPUs and it also easily configurable for both in-house clusters and the cloud (i.e. S3). Recent release includes faster implementation of word embeddings, support for ELMO models and the Universal Sentence Encoder. Put that 1000 CPUs on your inhouse cluster to use with Spark-NLP.
 
+#### Spotlight №19 (February 5, 2020)
+
+A library that can extract structured information from any kind of sentence: https://github.com/snipsco/snips-nlu
+
+Snips is a great library for Natural Language Understanding. It can transform any text into an automatically structured JSON format. It can also be used to detect the intent that can then be passed to your chatbot. It can be trained on your own data and the library also includes an official benchmark. It performs better than most of the NLU libraries out there. If you are working on chatbots or a product that needs to extract structured data from text, snips is a great library to try.
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
