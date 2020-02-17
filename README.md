@@ -103,6 +103,12 @@ A library that can extract structured information from any kind of sentence: htt
 
 Snips is a great library for Natural Language Understanding. It can transform any text into an automatically structured JSON format. It can also be used to detect the intent that can then be passed to your chatbot. It can be trained on your own data and the library also includes an official benchmark. It performs better than most of the NLU libraries out there. If you are working on chatbots or a product that needs to extract structured data from text, snips is a great library to try.
 
+#### Spotlight №20 (February 17, 2020)
+
+Today's pick is a library that makes usage of Transformer-based models easier, its called Happy Transformer: https://github.com/EricFillion/happy-transformer
+
+With Happy Transformer, you can train XLNET, BERT and ROBERTA; predict the next word in a sentence; show the probability of the next sentence in the paragraph or train a question answering system. Amazing work by Eric Fillion and his team, contributions are always welcome.
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
