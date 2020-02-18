@@ -109,6 +109,12 @@ Today's pick is a library that makes usage of Transformer-based models easier, i
 
 With Happy Transformer, you can train XLNET, BERT and ROBERTA; predict the next word in a sentence; show the probability of the next sentence in the paragraph or train a question answering system. Amazing work by Eric Fillion and his team, contributions are always welcome.
 
+#### Spotlight №21 (February 18, 2020)
+
+A set of scripts that will allow you to pre-train a GPT2 text generation model on your own dataset easily, it's called TextAugmentation-GPT2: https://github.com/prakhar21/TextAugmentation-GPT2
+
+You can use TextAugmentation-GPT2 to quickly generate any kind of sentences within your own domain. As the name suggests, it's a great way to do some text augmentation to extend your textual dataset.
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
