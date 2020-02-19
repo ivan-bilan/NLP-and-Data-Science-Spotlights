@@ -115,6 +115,11 @@ A set of scripts that will allow you to pre-train a GPT2 text generation model o
 
 You can use TextAugmentation-GPT2 to quickly generate any kind of sentences within your own domain. As the name suggests, it's a great way to do some text augmentation to extend your textual dataset.
 
+#### Spotlight №22 (February 19, 2020)
+
+A package that helps researchers train production ready PyTorch models without writing too much boilerplate code, it's called PyTorch Lightning: https://github.com/PyTorchLightning/pytorch-lightning
+
+PyTorch Lightning is a framework that includes a lot of engineering best practices related to creating production-ready DL models. As a researcher, you can concentrate more on the research code while PyTorch Lightning will abstract away many of the engineering considerations.
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
