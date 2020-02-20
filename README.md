@@ -121,6 +121,12 @@ A package that helps researchers train production ready PyTorch models without w
 
 PyTorch Lightning is a framework that includes a lot of engineering best practices related to creating production-ready DL models. As a researcher, you can concentrate more on the research code while PyTorch Lightning will abstract away many of the engineering considerations.
 
+#### Spotlight №23 (February 20, 2020)
+
+A viewer of Neural Network models called Netron: https://github.com/lutzroeder/netron
+
+With netron you can import your existing model for inspection and visualization. Netron supports a wide array of various model formats, starting from Keras and PyTorch models up to pickled sklearn models. Netron is a great way to see the structure of your model in more detail.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
