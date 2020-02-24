@@ -127,6 +127,12 @@ A viewer of Neural Network models called Netron: https://github.com/lutzroeder/n
 
 With netron you can import your existing model for inspection and visualization. Netron supports a wide array of various model formats, starting from Keras and PyTorch models up to pickled sklearn models. Netron is a great way to see the structure of your model in more detail.
 
+#### Spotlight №24 (February 24, 2020)
+
+A functional API that helps you build ML pipelines with sklearn, it's called Baikal: https://github.com/alegonz/baikal
+
+Baikal adds a lot of functionality to building complex, stacked or non-linear ML pipelines in scikit-learn. You can nest pipelines, handle multiple inputs and outputs and generally allow you to build complex ML pipelines with a lot more ease. Definite must try if you are working with multi-step ML approaches.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
