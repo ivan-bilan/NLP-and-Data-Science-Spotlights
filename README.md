@@ -133,6 +133,12 @@ A functional API that helps you build ML pipelines with sklearn, it's called Bai
 
 Baikal adds a lot of functionality to building complex, stacked or non-linear ML pipelines in scikit-learn. You can nest pipelines, handle multiple inputs and outputs and generally allow you to build complex ML pipelines with a lot more ease. Definite must try if you are working with multi-step ML approaches.
 
+#### Spotlight №25 (February 25, 2020)
+
+A library for Automated Speech Recognition (ASR) called "espresso": https://github.com/freewym/espresso
+
+Espresso provides state-of-the-art performance on many ASR datasets. The absolute highlight of the repository is the large number of amazing example usages of various Transformer based language models under https://github.com/freewym/espresso/tree/master/examples. 
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
