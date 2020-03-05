@@ -139,6 +139,12 @@ A library for Automated Speech Recognition (ASR) called "espresso": https://gith
 
 Espresso provides state-of-the-art performance on many ASR datasets. The absolute highlight of the repository is the large number of amazing example usages of various Transformer based language models under https://github.com/freewym/espresso/tree/master/examples. 
 
+#### Spotlight №26 (March 5, 2020)
+
+A set of visual diagnostics tool that will help you select the best machine learning model out of the ones you've trained, it's called "yellowbrick": https://github.com/DistrictDataLabs/yellowbrick
+
+Yellowbrick provides you with a lot of pre-made visualization options to inspect your ML models in a lot of detail. The visual tools are based on matplotlib and yellowbrick overall integrates very well with scikit-learn. Everything from feature visualization to model performance visualization is available out of the box.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
