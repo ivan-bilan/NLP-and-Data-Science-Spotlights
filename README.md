@@ -145,6 +145,19 @@ A set of visual diagnostics tool that will help you select the best machine lear
 
 Yellowbrick provides you with a lot of pre-made visualization options to inspect your ML models in a lot of detail. The visual tools are based on matplotlib and yellowbrick overall integrates very well with scikit-learn. Everything from feature visualization to model performance visualization is available out of the box.
 
+#### Spotlight №27 (March 9, 2020)
+
+AutoML (almost fully automated ML/DL problem solving) is a big topic that researchers are talking about. Many of us think that AutoML is for big corporations that have the hardware to do it. But today I wanted to share with you a set of tools you can use, no matter what framework you are into, to make use of AutoML in your own project.
+
+My favorite tool for AutoML is tpot: https://github.com/EpistasisLab/tpot. It has a lot of features and it can automate many parts of your ML pipeline.
+
+Besides tpot, there are many other libraries you can use:
+- AutoPyTorch - https://github.com/automl/Auto-PyTorch
+- auto-sklearn - https://github.com/automl/auto-sklearn
+- autokeras - https://github.com/keras-team/autokeras
+- HungaBunga - https://github.com/ypeleg/HungaBunga (brute-force approach)
+- AutoWeka - https://github.com/automl/autoweka
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
