@@ -158,6 +158,17 @@ Besides tpot, there are many other libraries you can use:
 - HungaBunga - https://github.com/ypeleg/HungaBunga (brute-force approach)
 - AutoWeka - https://github.com/automl/autoweka
 
+#### Spotlight №28 (April 14, 2020)
+An out-of-core DataFrames processing library called "vaex": https://github.com/vaexio/vaex
+
+If you are analyzing a lot of tabular data and Pandas is a bit too slow for you, "vaex" is a great alternative. It is very memory efficient and even has some visualization tools built into it. Other alternatives to "vaex" and also other ways of making pandas faster include:
+- modin, a pandas extension https://github.com/modin-project/modin
+- fletcher, a pandas extension https://github.com/xhochy/fletcher
+- cudf / Rapids for GPUs - https://github.com/rapidsai/cudf
+- dask for parallel computing https://github.com/dask/dask
+- Spark + Apache Arrow for parallel computing https://spark.apache.org/
+
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
