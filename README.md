@@ -168,6 +168,10 @@ If you are analyzing a lot of tabular data and Pandas is a bit too slow for you,
 - dask for parallel computing https://github.com/dask/dask
 - Spark + Apache Arrow for parallel computing https://spark.apache.org/
 
+#### Spotlight №29 (April 15, 2020)
+A data analysis and visualization library called "Datasist": https://github.com/risenW/datasist
+
+Datasist is a great tool that simplifies various Data Science workflow steps of analyzing and visualizing data. It provides a fast and easy to use interface over the pandas library and allows you to create beautifully looking plots with a few fast commands. Besides that, Datasist also provides some easy tools that can be used for feature engineering, ML model exploration and comparison and many more.
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
