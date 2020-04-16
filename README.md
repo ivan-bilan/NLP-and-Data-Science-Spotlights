@@ -173,6 +173,11 @@ A data analysis and visualization library called "Datasist": https://github.com/
 
 Datasist is a great tool that simplifies various Data Science workflow steps of analyzing and visualizing data. It provides a fast and easy to use interface over the pandas library and allows you to create beautifully looking plots with a few fast commands. Besides that, Datasist also provides some easy tools that can be used for feature engineering, ML model exploration and comparison and many more.
 
+#### Spotlight №30 (April 16, 2020)
+An implementation of a dimensionality reduction algorithm called the Uniform Manifold Approximation and Projection, or for shot UMAP: https://github.com/lmcinnes/umap
+
+UMAP is an amazing addition to the all too familiar family of dimensionality reduction algorithms like t-SNE (t-Distributed Stochastic Neighbor Embedding) and the ubiquitous PCA (Principal component analysis). It is built upon sklearn, numpy, scipy and numba (https://github.com/numba/numba), it is fast and scalable and has been shown to preserve more important aspects of the analyzed data than other algorithms. Make sure to try out UMAP next time you are working on your ML models.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
