@@ -182,4 +182,4 @@ UMAP is an amazing addition to the all too familiar family of dimensionality red
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
 - GitHub: https://github.com/ivan-bilan
-- Medium (for non-tech content): https://medium.com/@demiourgosua/
+- Medium (for non-tech content): https://medium.com/@ivanbilan
