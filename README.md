@@ -178,6 +178,11 @@ An implementation of a dimensionality reduction algorithm called the Uniform Man
 
 UMAP is an amazing addition to the all too familiar family of dimensionality reduction algorithms like t-SNE (t-Distributed Stochastic Neighbor Embedding) and the ubiquitous PCA (Principal component analysis). It is built upon sklearn, numpy, scipy and numba (https://github.com/numba/numba), it is fast and scalable and has been shown to preserve more important aspects of the analyzed data than other algorithms. Make sure to try out UMAP next time you are working on your ML models.
 
+#### Spotlight №31 (April 17, 2020)
+A multilingual sentence embeddings library called "LASER": https://github.com/facebookresearch/LASER
+
+LASER provides sentence embeddings for over 90 languages, moreover, the encoded sentences can contain multiple languages and can also be in languages that the embeddings weren't trained on but coming from the same language family. LASER is great for any sort of document classification task, especially in cross-lingual applications.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
