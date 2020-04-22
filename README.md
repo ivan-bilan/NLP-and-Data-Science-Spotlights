@@ -183,6 +183,11 @@ A multilingual sentence embeddings library called "LASER": https://github.com/fa
 
 LASER provides sentence embeddings for over 90 languages, moreover, the encoded sentences can contain multiple languages and can also be in languages that the embeddings weren't trained on but coming from the same language family. LASER is great for any sort of document classification task, especially in cross-lingual applications.
 
+#### Spotlight №32 (April 22, 2020)
+A fast embedding utility library called "magnitude":  https://github.com/plasticityai/magnitude
+
+Magnitude is a faster replacement for gensim, it works with various types of embeddings as well, from word2vec and fasttext up to BERT and ELMO. The most amazing feature of the library is that it can handle out of vocabulary words automatically. It's fast and simple to use, definitely worth a try.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
