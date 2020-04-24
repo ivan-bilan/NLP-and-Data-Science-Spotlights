@@ -188,6 +188,11 @@ A fast embedding utility library called "magnitude":  https://github.com/plastic
 
 Magnitude is a faster replacement for gensim, it works with various types of embeddings as well, from word2vec and fasttext up to BERT and ELMO. The most amazing feature of the library is that it can handle out of vocabulary words automatically. It's fast and simple to use, definitely worth a try.
 
+#### Spotlight №33 (April 24, 2020)
+A low-code Machine Learning library called "pycaret":  https://github.com/pycaret/pycaret
+
+Pycaret is built for quick end-to-end ML experiments to help Data Scientist get fast and reliable results without writing too much code. It wraps many frameworks like 'scikit-learn', 'spaCy', 'XGBoost', and many more, allowing for very quick prototyping. Need quick results? Try pycaret.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
