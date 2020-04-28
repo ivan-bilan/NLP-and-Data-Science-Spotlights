@@ -193,6 +193,11 @@ A low-code Machine Learning library called "pycaret":  https://github.com/pycare
 
 Pycaret is built for quick end-to-end ML experiments to help Data Scientist get fast and reliable results without writing too much code. It wraps many frameworks like 'scikit-learn', 'spaCy', 'XGBoost', and many more, allowing for very quick prototyping. Need quick results? Try pycaret.
 
+#### Spotlight №34 (April 28, 2020)
+A set of customized spaCy pipelines that can be used for analyzing various scientific, and especially biomedical documents. It is called "Sci spaCy":  https://github.com/allenai/scispacy
+
+Sci spaCy includes a lot of trained NLP pipelines that can be effectively used when analyzing biomedical datasets. It has out-of-the-box NER models that can detect specific biomedical terms, as well as specially trained tokenizers that can deal with complex abbreviations used in the scientific field.
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
