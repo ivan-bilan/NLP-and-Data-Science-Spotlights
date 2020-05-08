@@ -198,11 +198,16 @@ A set of customized spaCy pipelines that can be used for analyzing various scien
 
 Sci spaCy includes a lot of trained NLP pipelines that can be effectively used when analyzing biomedical datasets. It has out-of-the-box NER models that can detect specific biomedical terms, as well as specially trained tokenizers that can deal with complex abbreviations used in the scientific field.
 
-### Spotlight №35 (May 5, 2020)
+#### Spotlight №35 (May 5, 2020)
 
 A library for blazing-fast computations for finding Approximate Nearest Neighbours called "annoy": https://github.com/spotify/annoy
 
 Annoy is a C++ based and Python optimized library that can be used to run any computations related to Approximate Nearest Neighbours, it has support for various similarity functions like Euclidean, Manhattan, Hamming and cosine distances, it has low memory usage, is blazing fast and can even be used to index big datasets that don't fit into memory. Annoy is a must-try for any Data Scientist.
+
+#### Spotlight №35 (May 8, 2020)
+A library for deep learning end-to-end dialog systems and chatbots called "DeepPavlov":  https://github.com/deepmipt/DeepPavlov
+
+DeepPavlov has a lot of amazing functionality, from being able to transcribe audio to text and transform any text to audio, to being able to do precise NER, text classification, slot filling, questions answering, and many more. It also includes lots of pre-trained language models and among other things, can do sentiment analysis. It's a feature-packed library that everyone has to try. 
 
 
 ### Follow me for more content like this:
