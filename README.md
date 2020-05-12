@@ -204,10 +204,15 @@ A library for blazing-fast computations for finding Approximate Nearest Neighbou
 
 Annoy is a C++ based and Python optimized library that can be used to run any computations related to Approximate Nearest Neighbours, it has support for various similarity functions like Euclidean, Manhattan, Hamming and cosine distances, it has low memory usage, is blazing fast and can even be used to index big datasets that don't fit into memory. Annoy is a must-try for any Data Scientist.
 
-#### Spotlight №35 (May 8, 2020)
+#### Spotlight №36 (May 8, 2020)
 A library for deep learning end-to-end dialog systems and chatbots called "DeepPavlov":  https://github.com/deepmipt/DeepPavlov
 
 DeepPavlov has a lot of amazing functionality, from being able to transcribe audio to text and transform any text to audio, to being able to do precise NER, text classification, slot filling, questions answering, and many more. It also includes lots of pre-trained language models and among other things, can do sentiment analysis. It's a feature-packed library that everyone has to try. 
+
+#### Spotlight №37 (May 12, 2020)
+A text classification framework called "PySS3": https://github.com/sergioburdisso/pyss3
+
+PySS3 is an implementation of the t-SS3 NLP classifier originally outlined in https://arxiv.org/abs/1911.06147. PySS3 is a great and reliable way to run some quick text classification experiments that also works well with class-imbalanced data. PySS3 also includes a visualizer that can explain the rationale behind the final classification result, it is very easy to set up and work with. You should definitely give it a try!
 
 
 ### Follow me for more content like this:
