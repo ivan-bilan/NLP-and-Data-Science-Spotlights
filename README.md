@@ -214,6 +214,10 @@ A text classification framework called "PySS3": https://github.com/sergioburdiss
 
 PySS3 is an implementation of the t-SS3 NLP classifier originally outlined in https://arxiv.org/abs/1911.06147. PySS3 is a great and reliable way to run some quick text classification experiments that also works well with class-imbalanced data. PySS3 also includes a visualizer that can explain the rationale behind the final classification result, it is very easy to set up and work with. You should definitely give it a try!
 
+#### Spotlight №38 (May 19, 2020)
+A library for automated geographical address parsing called "libpostal":  https://github.com/openvenues/libpostal
+
+You can input any text string of an address in almost any free format and libpostal will automatically parse it into separate entities like house number, street, postal code, city, state and many more. Moreover, the library supports many languages and address formats from many countries. It is a perfect tool for any Data Scientist who works with geographical data, especially when doing Entity Matching. And did I mention it is written in C and has Python bindings?
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
