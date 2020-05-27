@@ -219,6 +219,20 @@ A library for automated geographical address parsing called "libpostal":  https:
 
 You can input any text string of an address in almost any free format and libpostal will automatically parse it into separate entities like house number, street, postal code, city, state and many more. Moreover, the library supports many languages and address formats from many countries. It is a perfect tool for any Data Scientist who works with geographical data, especially when doing Entity Matching. And did I mention it is written in C and has Python bindings?
 
+#### Spotlight №39 (May 27, 2020)
+Today's pick is a utility that will easily parallelize your pandas apply functions on multiple CPUs, its called "pandarallel":  https://github.com/nalepae/pandarallel
+
+Previously we looked at various alternatives and extensions to pandas, which include:
+- vaex (recently updated) https://github.com/vaexio/vaex
+- modin, a pandas extension https://github.com/modin-project/modin
+- fletcher, a pandas extension https://github.com/xhochy/fletcher
+- cudf / Rapids for GPUs - https://github.com/rapidsai/cudf
+- dask for parallel computing https://github.com/dask/dask
+- Spark + Apache Arrow for parallel computing https://spark.apache.org/
+
+However, pandarallel gives you a very quick and intuitive way of making your pandas analysis faster by just changing `df.apply(func)` to `df.parallel_apply(func)`.
+
+
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
 - Twitter: https://twitter.com/DemiourgosUA
