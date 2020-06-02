@@ -232,6 +232,11 @@ Previously we looked at various alternatives and extensions to pandas, which inc
 
 However, pandarallel gives you a very quick and intuitive way of making your pandas analysis faster by just changing `df.apply(func)` to `df.parallel_apply(func)`.
 
+#### Spotlight №40 (June 2, 2020)
+A text processing utility called "Texthero": https://github.com/jbesomi/texthero
+
+Texthero is very light-weight and easy to use NLP processing library that provides high-level and easy-to-use functions to do a lot of tasks like preprocessing, keyword extraction, topic modeling, clustering, and even various types of visualizations. It definitely deserves your attention, currently, it only has 30 stars on GitHub, but for the functionality and ease of use it provides, it deserves a lot more. Give it a try!
+
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
