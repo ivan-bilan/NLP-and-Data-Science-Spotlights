@@ -237,6 +237,10 @@ A text processing utility called "Texthero": https://github.com/jbesomi/texthero
 
 Texthero is very light-weight and easy to use NLP processing library that provides high-level and easy-to-use functions to do a lot of tasks like preprocessing, keyword extraction, topic modeling, clustering, and even various types of visualizations. It definitely deserves your attention, currently, it only has 30 stars on GitHub, but for the functionality and ease of use it provides, it deserves a lot more. Give it a try!
 
+#### Spotlight №41 (August 28, 2020)
+A new approach to topic modeling and document similarity called 𝗧𝗼𝗽𝟮𝗩𝗲𝗰: https://github.com/ddangelov/Top2Vec
+
+There haven't been many improvements in the field of topic modeling, and with Top2Vec we are finally looking at another milestone. Top2Vec learns jointly embedded topic, document, and word vectors. With trained Top2Vec models you can get topics, search topics by keywords, find similar documents, and lot more. Definite must check for any NLP enthusiast.
 
 ### Follow me for more content like this:
 - LinkedIn: https://www.linkedin.com/in/ivan-bilan/
